@@ -1,0 +1,5 @@
+main: com.github.junhyeok.PluginMain
+name: SamplePlugin
+author: JUNHYEOK__
+version: 1.0
+api-version: '1.16'
